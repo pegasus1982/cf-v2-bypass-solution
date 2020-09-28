@@ -2,9 +2,10 @@
 This solution solves cloudflare with python.<br>
 A few npm modules is used to solve challege js code
 ## environment
+```
   python ^3.7
   npm ^6.12
-
+```
 ## Analytics
 
 ### Success Rate
