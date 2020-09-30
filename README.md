@@ -1,6 +1,5 @@
 # cf-v2-bypass-solution
-This solution solves cloudflare with python.<br>
-A few npm modules is used to solve challege js code
+This solution solves cloudflare with python
 ## environment
 ```
   python ^3.7
