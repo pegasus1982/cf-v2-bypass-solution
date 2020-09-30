@@ -8,7 +8,7 @@ This solution solves cloudflare with python
 ## Analytics
 
 ### Success Rate
-82%
+94%
 
 ### Average solving time
 6.4s
